@@ -41,4 +41,7 @@ Set up CI/CD workflows to ensure code quality and automatic testing.
 
 Improve code quality and explore optional enhancements, such as test coverage reports.
 
+<!-- Pytest Coverage Comment:Begin -->
+<!-- Pytest Coverage Comment:End -->
+
 Congratulations on completing this project! Keep up the momentum in Week 2.
